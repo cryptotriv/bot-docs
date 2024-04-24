@@ -112,11 +112,17 @@ A new token just launched, and an insider sniped it - you follow them.
 4. Use Ctrl+F with the token contract address to check the history - make sure the token was not botted 🤖
 5. Wait for the initial dump where snipers exit
 6. If the price goes down to where the insider previously bought or last bought, enter a small position
-7. Exit at some point based on market maker activity, profit, or invalidations
+7. Exit at some point based on insider activity, profit, or invalidations
 
+#### Risky Variant 
+A new token just launched, and an insider sniped it - you follow them.
 
-
-
+1. Subscribe to New tokens
+2. On a New token signal, check the token chart to see that it is a newly deployed token
+3. Scan the contract to check that it is not a honeypot (colour doesn't matter) and there are at least 8 profitable wallets that sniped the same token (XToolsAI)
+4. Enter with half size
+5. If the price goes down to where the insider previously bought or last bought, enter with the other half of size
+6. Exit at some point based on insider activity, profit, or invalidations
 
 
 
