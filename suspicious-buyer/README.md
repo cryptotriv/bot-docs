@@ -18,7 +18,7 @@ Here is an example of a suspicious buy flow:
 
 - Buy/Sell: The first line can have different emojis alongside the token name and executed price:
   - 💰 Buy: This is the standard emoji for a token buy by the suspicious trader.
-  - ✨ New: This is a new token which only has 2 suspicious buys. Useful for early entries.
+  - ✨ New: This is a new token which only has 1 suspicious buy. Useful for early entries.
   - 🌟 Good: This is a token which has 5 suspicious buys. This token is more likely to be continuously bought by the trader.
   - 😈 Sell: This is the standard emoji for a token sell by the suspicious trader.
   - 😡 First Sell: This is the first sell done by the suspicious trader for this token.
@@ -47,6 +47,7 @@ Here is an example of a suspicious buy flow:
 - 🔔 Token: Subscribe to this token specifically (the bot will notify you in private chat)
 - 🔔✨ New: Subscribe to new tokens (the bot will notify you in private chat)
 - 🔔🌟 Good: Subscribe to good tokens (the bot will notify you in private chat)
+  - NOTE: If you subscribe to both New and Good tokens, the bot will notify you the 2nd, 3rd, and 4th trades as well in private chat 
 
 ## General Tips
 - You can Ctrl+F the token contract address and look at every 10th trade while looking at the "Last 10" data to know if trader has been nett buying or selling. You can do this with Holdings data as well.
