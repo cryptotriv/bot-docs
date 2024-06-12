@@ -124,6 +124,15 @@ A new token just launched, and an insider sniped it - you follow them.
 5. If the price goes down to where the insider previously bought or last bought, and new contract scan is now green 🟢, enter with the other half of size
 6. Exit at some point based on insider activity, profit, or invalidations
 
+#### Low Liquidity Variant
+NOTE: This uses the Low Liquidity Signal Bot rather than the regular Suspicious Buyer Signal Bot
+
+1. On a token signal, check the token chart to see if it has low volume for the last 7 days, and that the token's FDV or Market Cap value is not extremely higher than its liquidity
+2. Scan the contract to check that it is green 🟢
+3. Enter a position and set the stop loss to just below the lowest price within the last 7 days
+4. If the token pumps shortly after, exit at some point based on insider activity, profit, or invalidations (you can put higher profit targets for these)
+5. Otherwise, hold the token for 5-7 days to see if it pumps (you can put normal profit targets for these)
+6. Exit if no movement or price reaches the stop loss
 
 
 
