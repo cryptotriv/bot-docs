@@ -124,7 +124,7 @@ A new token just launched, and an insider sniped it - you follow them.
 5. If the price goes down to where the insider previously bought or last bought, and new contract scan is now green 🟢, enter with the other half of size
 6. Exit at some point based on insider activity, profit, or invalidations
 
-#### Low Liquidity Variant
+### Low Liquidity Bot Variant (Short or Long Duration, Normal Size)
 NOTE: This uses the Low Liquidity Signal Bot rather than the regular Suspicious Buyer Signal Bot
 
 1. On a token signal, check the token chart to see if it has low volume for the last 7 days, and that the token's FDV or Market Cap value is not extremely higher than its liquidity
