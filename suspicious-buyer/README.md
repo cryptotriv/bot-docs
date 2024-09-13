@@ -1,5 +1,7 @@
 # Triv's Suspicious Buyer Signal Bot
-Detect and see the buys and sells of insiders, market makers, or scammers - use this to help your trading strategy, or trade using this info directly! This bot has a 1 week free trial and my [friendtech](https://www.friend.tech/0x0592eb9664666aa8463fda75de5592101952a7c3) keyholders have unlimited access. Contact me [here](https://t.me/cryptotriv) for free trials or special arrangements.
+Detect and see the buys and sells of insiders, market makers, or scammers - use this to help your trading strategy, or trade using this info directly! This bot has a 1 week free trial and my monthly supporters have unlimited access. Contact me [here](https://t.me/cryptotriv) to try it out or make special arrangements.
+
+This bot has other variants, namely Low Liquidity Signals Bot and Low Volume Signals Bot.
 
 DISCLAIMER: Not financial advice.
 
